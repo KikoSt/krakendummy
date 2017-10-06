@@ -2,6 +2,8 @@
   "name": "gitkraken",
   "version": "1.0.0",
   "main": "app.js",
+  "description": "gitkraken",
+  "main": "dist/index.js",
   "devDependencies": {
     "webpack": "^3.6.0"
   },
@@ -12,12 +14,6 @@
     "type": "git",
     "url": "git+https://github.com/KikoSt/krakendummy.git"
   },
-  "keywords": [
-    "dummy",
-    "test",
-    "git",
-    "kraken"
-  ],
   "author": "Kiko",
   "license": "ISC",
   "bugs": {
