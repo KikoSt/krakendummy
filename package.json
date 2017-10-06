@@ -1,0 +1,23 @@
+{
+  "name": "gitkraken",
+  "version": "1.0.0",
+  "main": "app.js",
+  "description": "gitkraken",
+  "main": "dist/index.js",
+  "devDependencies": {
+    "webpack": "^3.6.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KikoSt/krakendummy.git"
+  },
+  "author": "Kiko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KikoSt/krakendummy/issues"
+  },
+  "homepage": "https://github.com/KikoSt/krakendummy#readme"
+}
